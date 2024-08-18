@@ -2,7 +2,8 @@
 
 A Full-stack blog app with CRUD Operations.
 
-![Alt Text](https://drive.google.com/file/d/19KmzpRViX7it7umZagjAuXyJxwS0xL8y/view?usp=sharing)
+![Screen grab of MERN BlogApp](https://github.com/user-attachments/assets/8a3af2b3-071a-4c65-a2b7-c09a9e34ddeb)
+
 
 
 ## Table of Contents
