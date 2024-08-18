@@ -22,8 +22,8 @@ A Full-stack blog app with CRUD Operations.
 Ensure you have the following installed on your system:
 - Node.js
 - MongoDB
-- Yarn (if not installed, see [Install Yarn](#install-yarn))
-- Nodemon (if not installed, see [Install Nodemon](#install-nodemon))
+- Yarn
+- Nodemon
 
 ### Clone the Repository
 
