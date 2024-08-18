@@ -2,6 +2,9 @@
 
 A Full-stack blog app with CRUD Operations.
 
+![Alt Text](https://drive.google.com/file/d/19KmzpRViX7it7umZagjAuXyJxwS0xL8y/view?usp=sharing)
+
+
 ## Table of Contents
 - [Installation](#installation)
   - [Prerequisites](#prerequisites)
