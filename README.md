@@ -40,7 +40,7 @@ Start the backend server using Nodemon:
 nodemon index.js
 ```
 
-Make sure to change the MongoDB connection URL in the code if you plan to use your own database.
+*** Make sure to change the MongoDB connection URL in the code if you plan to use your own database. ***
 
 ### Frontend Setup
 
